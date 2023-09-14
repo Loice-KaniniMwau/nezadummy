@@ -15,8 +15,11 @@ return(
                 </li>
                 <li className="who we are">
                     <a href="/">Who we are</a>
-                    <p>About Us</p>
-                    <p>Team</p>
+                    <a href="#home">   <p>About Us</p></a>
+                    <a href="#team">  <p>Team</p></a>
+                    {/* <a href="#product">  <p>Product</p></a>
+                    <p>About Us</p> */}
+                  
                 </li>
                 <li className="contacts">
                     <a href="/">Contact Us</a>

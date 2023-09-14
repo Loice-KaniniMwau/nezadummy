@@ -9,7 +9,7 @@
       background-size: 100% 100%; 
       opacity: 0.9;
       margin-top: 5%;
-      font-size: large;
+      font-size: larger;
       font-weight: 900;
       font-family: 'Nunito';
        bottom: 0;     
@@ -51,10 +51,10 @@
       text-decoration: none;
       transition: color 0.3s ease;
       font-family: 'Nunito';
-      font-size: 30px;
+      font-size: 40px;
     }
     .footer-menu p {
-      font-size: 10px;
+      font-size: 21px;
     }
     /* .footer2 {
       display: flex;
