@@ -58,7 +58,7 @@ function Navbar() {
           </a>
         </li>
         <li className="button">
-          <a href="" >
+          <a href="/register" >
             <button>Register</button>
           </a>
         </li>
